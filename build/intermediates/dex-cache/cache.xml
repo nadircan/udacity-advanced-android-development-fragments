@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2d87e3b28c1635d16200dac1951c3aa312919196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_dfa2dfddbf105e8175c99ba268632c66eccacf32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_edeaf356fd585602d39d327ac62a396721d2be60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_e4763875df4f8c7bf079407589010f12966abafd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_6751c488e954f12ec737735047ea38902f22ecc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_0543470f9dcfdc4e267402db3bf3b1722c0a052a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_8605f2cbf40a12c04ab4e81f34fcb599f680057a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_63d5aecf3ba644cd0cea2ea8393f036f516154da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_79d24e44eac67dc752c77e383012dc9f0df47233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/nadir.kavkas/Desktop/androidprojects/Android_Me/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_530998235a63167bc19d6710d1e87a43a8a9dbde.jar" />
+    </item>
+
+</items>
